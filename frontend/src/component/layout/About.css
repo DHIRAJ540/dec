@@ -1,0 +1,9 @@
+.about{
+    height: 100vh;
+    width: 100%;
+    font: 400 3vmax "Roboto";
+    color: tomato;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
